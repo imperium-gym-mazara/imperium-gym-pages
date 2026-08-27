@@ -1,0 +1,16 @@
+{
+  "name": "Imperium Gym — Portale membri",
+  "short_name": "Imperium Gym",
+  "description": "Il tuo spazio per la progressione e la performance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081017",
+  "theme_color": "#081017",
+  "lang": "it",
+  "icons": [{
+    "src": "/imperium-logo.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
